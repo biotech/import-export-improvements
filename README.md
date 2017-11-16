@@ -13,3 +13,7 @@ https://github.com/magento/magento2/labels/Import%2FExport
 * http://www.unirgy.com/products/urapidflow
 * https://github.com/Agence-DnD/PIMGento-2
 * https://github.com/firebearstudio/importexportfree
+* https://github.com/macopedia/magmi-git 
+* https://www.xtento.com/magento-extensions/magento-stock-inventory-import-module.html 
+* http://www.commerceextensions.com/magento-product-import-export-magento-2.html
+
